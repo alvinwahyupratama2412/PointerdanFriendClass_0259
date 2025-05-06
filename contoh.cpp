@@ -16,5 +16,9 @@ class PersegiPanjang{
     int luasPp(int a, int b){
         return a*b;
     }
-    
+    Lingkaran ol;
+};
+
+class Lingkaran{
+    int jarijari;
 };
