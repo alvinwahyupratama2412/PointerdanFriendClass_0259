@@ -15,3 +15,8 @@ void setNama(mahasiswa &a, string b){
     cout << a.nama;
 }
 
+int main(){
+    mahasiswa joko;
+    setNama (joko, "kairi kumar");
+    return 0;
+}
