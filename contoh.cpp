@@ -21,4 +21,9 @@ class PersegiPanjang{
 
 class Lingkaran{
     int jarijari;
+
+    void input(){
+        cout << "Masukkan jari-jari : ";
+        cin >> jarijari;
+    }
 };
